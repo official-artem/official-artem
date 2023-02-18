@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I like pizza😅**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🥳 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/artem-hrechuk" target="blank"><img height="30" width="40"  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artem-hrechuk"/></a>
   <a href="https://t.me/official_artem" target="_blank"><img align="center" width="40" src="https://img.icons8.com/color/96/null/telegram-app--v1.png"/></a>
