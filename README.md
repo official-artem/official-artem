@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Artem Hrechuck</h1>
 <h3 align="center">A Full Stack Developer from Ukraine</h3>
 
-<h3 align="justify">
+<p align="justify">
   Hello! In just a year, I've gone from knowing nothing to becoming a full stack developer, and I'm thoroughly enjoying the experience. 
   I'm looking to join a team where I can continue to grow and develop projects that will be of use to people. 
   I work with React, Node.js, JavaScript, TypeScript, HTML5, CSS3, BEM, SCSS, and I'm open to learning Angular or Vue. 
   My goal is to find a job where I can reach my full potential and be as beneficial as possible.
-</h3>
+</p>
 
 ---
 
