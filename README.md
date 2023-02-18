@@ -1,3 +1,4 @@
+![logo](https://user-images.githubusercontent.com/107754172/219869111-bd9264fe-b61f-4bee-983c-11d8697be2f8.png)
 <h1 align="center">Hi 👋, I'm Artem Hrechuck</h1>
 <h3 align="center">A Full Stack Developer from Ukraine</h3>
 
