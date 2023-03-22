@@ -95,8 +95,11 @@
  
  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-512/sequelize-2-1175003.png?f=avif&w=256" alt="nodejs" width="40" height="40"/>
- </a> 
+ </a>
   
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" alt="mongoDB" width="40" height="40"/>
+ </a>
 </p>
 
 <h2>
