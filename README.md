@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at my [website](https://artem-hrechuk.netlify.app/)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1WdB_Pq8vSqznxqrVmisSdTszbRQ4yLKA/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Cu_FdanhsrpYiZEh2p_5sf9NkyuyiAma/view?usp=sharing)
 
 - ⚡ Fun fact **I like pizza😅**
 
