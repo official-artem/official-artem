@@ -116,8 +116,3 @@
   <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h2>Some statistic</h2>
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=official-artem&show_icons=true&theme=tokyonight" alt="official-artem" />
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=official-artem&theme=tokyonight" alt="official-artem" />
-
